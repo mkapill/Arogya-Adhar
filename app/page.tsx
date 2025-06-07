@@ -282,7 +282,7 @@ export default function HomePage() {
             {/* Ambulance */}
             <div className="bg-white rounded-lg p-6 text-center">
               <div className="bg-slate-600 rounded-lg p-8 mb-4">
-                <Image src="/images/ambulance.jpg" alt="Ambulance" width={200} height={150} className="mx-auto" />
+                <Image src="https://iili.io/F3uXY0P.jpg" alt="Ambulance" width={200} height={150} className="mx-auto" />
               </div>
               <Button className="bg-green-600 hover:bg-green-700 text-white px-8 py-2 rounded-lg w-full">
                 Book Now
