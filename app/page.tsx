@@ -229,8 +229,8 @@ export default function HomePage() {
               </div>
               <div className="text-center">
                 <Image
-                  src="/images/mr-abhi.jpg"
-                  alt="Dr. Kapil Mahajan"
+                  src="https://iili.io/F3uAeRt.jpg"
+                  alt="Mr Abhi Puranik"
                   width={200}
                   height={250}
                   className="rounded-lg mb-2 w-full"
